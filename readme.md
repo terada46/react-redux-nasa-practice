@@ -1,6 +1,7 @@
-# Chapter 5!
+# Practice: React + Redux with NASA API
 
-https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718
+From tutorial: 
+https://codeburst.io/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-e462ef0c806c
 
 ## How to start
 
